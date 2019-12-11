@@ -12,5 +12,29 @@
       <link>https://HydraZeng.github.io/</link>
     </image>
     
+    <item>
+      <title>Posts</title>
+      <link>https://HydraZeng.github.io/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://HydraZeng.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://HydraZeng.github.io/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://HydraZeng.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://HydraZeng.github.io/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://HydraZeng.github.io/talk/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
