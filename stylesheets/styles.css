@@ -194,6 +194,29 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+.service-section {
+  background-color: #f1f8ff;
+  border-left: 4px solid #0366d6;
+  border-radius: 3px;
+  padding: 12px 20px;
+  margin: 0 0 20px;
+}
+
+.service-section h1 {
+  margin: 0 0 10px;
+  font-size: 20px;
+  color: #24292e;
+}
+
+.service-section ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.service-section li {
+  margin-bottom: 6px;
+}
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
